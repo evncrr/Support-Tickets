@@ -1,3 +1,4 @@
+# Customer Support Ticket Intelligence System
 ## Project Overview
 - This project analyzes customer support tickets to provide actionable insights for IT and support teams. It demonstrates the use of SQL views, aggregation, and data analysis on real-world ticketing data. The project can help organizations improve customer satisfaction, optimize support workflows, and identify areas for product improvement.
 ## Dataset
